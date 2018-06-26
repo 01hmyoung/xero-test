@@ -2,7 +2,7 @@
 
 const express = require('express');
 const session = require('express-session');
-const XeroClient = require('xero-node').AccountingAPIClient;;
+const XeroClient = require('xero-node').AccountingAPIClient;
 const exphbs = require('express-handlebars');
 
 var app = express();
