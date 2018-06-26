@@ -2,6 +2,6 @@
     "appType": "public",
     "consumerKey": "5P2HSUKEV7BTPQ7W7BB6ASI6CTYVXX",
     "consumerSecret": "UJ3YBN0FEL5DSW4CUBLZVMF4IPCACM",
-    "callbackUrl": "xero-node-test.herokuapp.com/access"
+    "callbackUrl": "https://xero-node-test.herokuapp.com/access"
 
 }
